@@ -1,0 +1,15 @@
+{
+  "name": "form-elements",
+  "version": "1.0.0",
+  "description": "The Form Elements Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Forms",
+    "Elements"
+  ],
+  "author": "Peter Vink",
+  "license": "UNLICENSED"
+}
